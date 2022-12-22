@@ -3,13 +3,13 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "cd19de11",
+   "id": "604cddfa",
    "metadata": {
     "papermill": {
-     "duration": 0.002355,
-     "end_time": "2022-12-22T08:21:35.212783",
+     "duration": 0.002358,
+     "end_time": "2022-12-22T08:23:09.035379",
      "exception": false,
-     "start_time": "2022-12-22T08:21:35.210428",
+     "start_time": "2022-12-22T08:23:09.033021",
      "status": "completed"
     },
     "tags": []
@@ -38,14 +38,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 11.153698,
-   "end_time": "2022-12-22T08:21:35.940641",
+   "duration": 9.467459,
+   "end_time": "2022-12-22T08:23:09.764118",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2022-12-22T08:21:24.786943",
+   "start_time": "2022-12-22T08:23:00.296659",
    "version": "2.3.4"
   }
  },
